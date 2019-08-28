@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/nexus/repository/samplerelease/</url>
+            <url>http://localhost:8081/nexus/repository/nexus/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
